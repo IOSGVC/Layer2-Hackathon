@@ -62,7 +62,7 @@ The Graph Special bounty
 https://drive.google.com/file/d/1nN6v-pkAbr1Zzc_deGWQHzr92v2OXsBi/view?usp=sharing 
 
 🔥  Arbitrum - $4k
-Pending
+https://shimo.im/docs/Rk3KPphw89c8Qwtv/ 
 
 🔥  Polygon - $3K
 Best NFT or Defi implementation on Polygon 
