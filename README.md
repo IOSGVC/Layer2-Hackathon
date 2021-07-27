@@ -96,7 +96,7 @@ https://iosg.vc/kickstarterprogram/
 # Guide and Timetable
 https://docs.google.com/document/d/1OUs7N8nYpFgPENISY3kksplxz5KmYAkG8h6fH1RpYv4/edit?usp=sharing 
 
-# Comminucation Channel
+# Communication Channel
 https://t.me/iosg_event
 
 WeChat group: IOSG_VC
